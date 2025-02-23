@@ -1,7 +1,7 @@
 <template>
   <nav class="navbar navbar-expand-lg">
     <div class="container-fluid">
-      <a class="navbar-brand" href="#">PPU FH-UH</a>
+      <a class="navbar-brand" href="#">SDN 206 Botto</a>
       <button
         class="navbar-toggler"
         type="button"
@@ -21,23 +21,23 @@
             active-class="active"
             exact-active-class="active"
           >
-            Kandidiat
+            Beranda
           </RouterLink>
           <RouterLink
-            to="/dpt"
+            to="/visimisi"
             class="nav-item nav-link"
             active-class="active"
             exact-active-class="active"
           >
-            DPT
+            Visi & Misi
           </RouterLink>
           <RouterLink
-            to="/perolehan_suara"
+            to="/prestasi"
             class="nav-item nav-link"
             active-class="active"
             exact-active-class="active"
           >
-            Perolehan Suara
+            Prestasi
           </RouterLink>
         </ul>
       </div>

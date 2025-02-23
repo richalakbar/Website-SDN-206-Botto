@@ -13,14 +13,14 @@
         <img src="../assets/Search.svg" class="search-icon" alt="Search Icon" />
       </form>
     </div>
-    <h1>DPT</h1>
+    <h1>Visi & Misi</h1>
   </main>
 </template>
 
 <script>
 import navbarComponent from "../components/navbarComponent.vue";
 export default {
-  name: "Dpt",
+  name: "visimisi",
   components: {
     navbarComponent,
   },
