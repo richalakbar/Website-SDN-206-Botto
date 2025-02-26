@@ -1,6 +1,6 @@
 <template>
   <navbar-component />
-  <main class="container-global">
+  <main style="padding-top: 100px;" class="container-global">
     <div class="position-search">
       <form class="d-flex custome-icon-search" role="search" @submit.prevent>
         <input

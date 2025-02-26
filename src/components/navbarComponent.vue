@@ -53,42 +53,49 @@ export default {
 
 <style scoped>
 .navbar {
-  background-color: #007bff !important;
+  background-color: #fdeebf;
   padding: 10px;
   display: flex;
   align-items: center;
+  box-shadow: 0 4px 12px -2px rgba(11, 151, 184, 0.5);
+  position: fixed;
+  width: 100%;
+  left: 0;
+  right: 0;
 }
 
 .navbar-brand {
-  color: white !important;
+  color: #0b97b8 !important;
   font-weight: bold;
   margin-bottom: 5px;
 }
 
 .nav-link {
-  color: white !important;
+  color: #0b97b8 !important;
   font-weight: normal;
   margin-bottom: 5px;
   transition: color 0.3s ease-in-out, font-weight 0.1s ease-in-out;
+  margin: 0 15px;
 }
 
 .nav-link:hover {
   font-weight: bold;
-  color: #c9c9c9 !important;
+  color: #0b97b8 !important;
 }
 
 .nav-link.active {
   font-weight: bold !important;
-  color: #fcc01c !important;
+  color: #f2651c !important;
   transition: color 0.3s ease-in-out;
+  text-shadow: 0px 0px 15px rgba(0, 0, 0, 0.3), 0px 0px 30px rgba(0, 0, 0, 0.15);
 }
 
 .navbar-toggler {
-  border: 1px solid white;
+  border: 2px solid #0b97b8;
 }
 
 .navbar-toggler-icon {
-  filter: invert(1);
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3E%3Cpath stroke='%230b97b8' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
 }
 
 @media (max-width: 768px) {

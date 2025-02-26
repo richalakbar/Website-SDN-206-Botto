@@ -1,8 +1,8 @@
 <template>
   <navbar-component />
-  <div class="container-global">
+  <main style="padding-top: 100px;" class="container-global">
     <h1 class="pewarnaan">Prestasi</h1>
-  </div>
+  </main>
 </template>
 
 <script>
