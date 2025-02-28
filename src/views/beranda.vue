@@ -115,6 +115,172 @@
             <p>KALENDER AKADEMIK</p>
           </div>
         </div>
+        <div class="content-web">
+          <h2 class="content-title">PREASTASI</h2>
+          <div class="prestasi-container">
+            <img
+              class="prestasi-image"
+              src="../assets/3.jpg"
+              alt="Deskripsi gambar"
+            />
+            <div class="prestasi-text-container">
+              <p class="prestasi-title">
+                G Juara 1 Lomba Pramuka: Sebuah Perjalanan Penuh Semangat dan
+                Dedikasi
+              </p>
+              <p class="prestasi-description">
+                Menjadi juara 1 dalam lomba Pramuka bukanlah hal yang mudah,
+                tetapi G berhasil membuktikan bahwa kerja keras, disiplin, dan
+                kebersamaan adalah kunci utama menuju kemenangan. Dalam
+                kompetisi yang penuh tantangan, G menunjukkan kemampuan
+                terbaiknya dalam berbagai aspek kepramukaan, mulai dari
+                keterampilan tali-temali, baris-berbaris, hingga pengetahuan
+                tentang survival di alam. Tidak hanya mengandalkan keahlian
+                teknis, G juga memperlihatkan jiwa kepemimpinan yang kuat dan
+                kemampuan bekerja sama dalam tim. Dengan strategi yang matang
+                dan semangat pantang menyerah, G dan timnya berhasil melewati
+                setiap rintangan dengan penuh percaya diri. Kemenangan ini bukan
+                hanya tentang membawa pulang trofi juara, tetapi juga tentang
+                pengalaman berharga yang mengajarkan arti kerja keras,
+                solidaritas, dan ketangguhan. Prestasi ini menjadi inspirasi
+                bagi banyak orang untuk terus berusaha dan mengembangkan diri
+                dalam dunia kepramukaan.
+              </p>
+              <button class="selengkapnya-prestasi-utama">Selengkapnya</button>
+            </div>
+          </div>
+          <div class="gallery-container">
+            <div class="gallery-item">
+              <img
+                class="gallery-image"
+                src="../assets/3.jpg"
+                alt="Deskripsi gambar"
+              />
+              <div class="gallery-text-container">
+                <p class="gallery-title">
+                  G Juara 1 Lomba Pramuka: Sebuah Perjalanan Penuh Semangat dan
+                  Dedikasi
+                </p>
+                <p class="gallery-description">
+                  Menjadi juara 1 dalam lomba Pramuka bukanlah hal yang mudah,
+                  tetapi G berhasil membuktikan bahwa kerja keras, disiplin, dan
+                  kebersamaan adalah kunci utama menuju kemenangan. Dalam
+                  kompetisi yang penuh tantangan, G menunjukkan kemampuan
+                  terbaiknya dalam berbagai aspek kepramukaan, mulai dari
+                  keterampilan tali-temali, baris-berbaris, hingga pengetahuan
+                  tentang survival di alam. Tidak hanya mengandalkan keahlian
+                  teknis, G juga memperlihatkan jiwa kepemimpinan yang kuat dan
+                  kemampuan bekerja sama dalam tim. Dengan strategi yang matang
+                  dan semangat pantang menyerah, G dan timnya berhasil melewati
+                  setiap rintangan dengan penuh percaya diri. Kemenangan ini
+                  bukan hanya tentang membawa pulang trofi juara, tetapi juga
+                  tentang pengalaman berharga yang mengajarkan arti kerja keras,
+                  solidaritas, dan ketangguhan. Prestasi ini menjadi inspirasi
+                  bagi banyak orang untuk terus berusaha dan mengembangkan diri
+                  dalam dunia kepramukaan.
+                </p>
+              </div>
+              <button class="selengkapnya-prestasi">Selengkapnya</button>
+            </div>
+            <div class="gallery-item">
+              <img
+                class="gallery-image"
+                src="../assets/3.jpg"
+                alt="Deskripsi gambar"
+              />
+              <div class="gallery-text-container">
+                <p class="gallery-title">
+                  G Juara 1 Lomba Pramuka: Sebuah Perjalanan Penuh Semangat dan
+                  Dedikasi
+                </p>
+                <p class="gallery-description">
+                  Menjadi juara 1 dalam lomba Pramuka bukanlah hal yang mudah,
+                  tetapi G berhasil membuktikan bahwa kerja keras, disiplin, dan
+                  kebersamaan adalah kunci utama menuju kemenangan. Dalam
+                  kompetisi yang penuh tantangan, G menunjukkan kemampuan
+                  terbaiknya dalam berbagai aspek kepramukaan, mulai dari
+                  keterampilan tali-temali, baris-berbaris, hingga pengetahuan
+                  tentang survival di alam. Tidak hanya mengandalkan keahlian
+                  teknis, G juga memperlihatkan jiwa kepemimpinan yang kuat dan
+                  kemampuan bekerja sama dalam tim. Dengan strategi yang matang
+                  dan semangat pantang menyerah, G dan timnya berhasil melewati
+                  setiap rintangan dengan penuh percaya diri. Kemenangan ini
+                  bukan hanya tentang membawa pulang trofi juara, tetapi juga
+                  tentang pengalaman berharga yang mengajarkan arti kerja keras,
+                  solidaritas, dan ketangguhan. Prestasi ini menjadi inspirasi
+                  bagi banyak orang untuk terus berusaha dan mengembangkan diri
+                  dalam dunia kepramukaan.
+                </p>
+              </div>
+              <button class="selengkapnya-prestasi">Selengkapnya</button>
+            </div>
+            <div class="gallery-item">
+              <img
+                class="gallery-image"
+                src="../assets/3.jpg"
+                alt="Deskripsi gambar"
+              />
+              <div class="gallery-text-container">
+                <p class="gallery-title">
+                  G Juara 1 Lomba Pramuka: Sebuah Perjalanan Penuh Semangat dan
+                  Dedikasi
+                </p>
+                <p class="gallery-description">
+                  Menjadi juara 1 dalam lomba Pramuka bukanlah hal yang mudah,
+                  tetapi G berhasil membuktikan bahwa kerja keras, disiplin, dan
+                  kebersamaan adalah kunci utama menuju kemenangan. Dalam
+                  kompetisi yang penuh tantangan, G menunjukkan kemampuan
+                  terbaiknya dalam berbagai aspek kepramukaan, mulai dari
+                  keterampilan tali-temali, baris-berbaris, hingga pengetahuan
+                  tentang survival di alam. Tidak hanya mengandalkan keahlian
+                  teknis, G juga memperlihatkan jiwa kepemimpinan yang kuat dan
+                  kemampuan bekerja sama dalam tim. Dengan strategi yang matang
+                  dan semangat pantang menyerah, G dan timnya berhasil melewati
+                  setiap rintangan dengan penuh percaya diri. Kemenangan ini
+                  bukan hanya tentang membawa pulang trofi juara, tetapi juga
+                  tentang pengalaman berharga yang mengajarkan arti kerja keras,
+                  solidaritas, dan ketangguhan. Prestasi ini menjadi inspirasi
+                  bagi banyak orang untuk terus berusaha dan mengembangkan diri
+                  dalam dunia kepramukaan.
+                </p>
+              </div>
+              <button class="selengkapnya-prestasi">Selengkapnya</button>
+            </div>
+            <div class="gallery-item">
+              <img
+                class="gallery-image"
+                src="../assets/3.jpg"
+                alt="Deskripsi gambar"
+              />
+              <div class="gallery-text-container">
+                <p class="gallery-title">
+                  G Juara 1 Lomba Pramuka: Sebuah Perjalanan Penuh Semangat dan
+                  Dedikasi
+                </p>
+                <p class="gallery-description">
+                  Menjadi juara 1 dalam lomba Pramuka bukanlah hal yang mudah,
+                  tetapi G berhasil membuktikan bahwa kerja keras, disiplin, dan
+                  kebersamaan adalah kunci utama menuju kemenangan. Dalam
+                  kompetisi yang penuh tantangan, G menunjukkan kemampuan
+                  terbaiknya dalam berbagai aspek kepramukaan, mulai dari
+                  keterampilan tali-temali, baris-berbaris, hingga pengetahuan
+                  tentang survival di alam. Tidak hanya mengandalkan keahlian
+                  teknis, G juga memperlihatkan jiwa kepemimpinan yang kuat dan
+                  kemampuan bekerja sama dalam tim. Dengan strategi yang matang
+                  dan semangat pantang menyerah, G dan timnya berhasil melewati
+                  setiap rintangan dengan penuh percaya diri. Kemenangan ini
+                  bukan hanya tentang membawa pulang trofi juara, tetapi juga
+                  tentang pengalaman berharga yang mengajarkan arti kerja keras,
+                  solidaritas, dan ketangguhan. Prestasi ini menjadi inspirasi
+                  bagi banyak orang untuk terus berusaha dan mengembangkan diri
+                  dalam dunia kepramukaan.
+                </p>
+              </div>
+              <button class="selengkapnya-prestasi">Selengkapnya</button>
+            </div>
+          </div>
+          <p class="selengkapnya">Prestasi Selengkapnya</p>
+        </div>
       </div>
     </main>
   </main>
@@ -122,11 +288,11 @@
 
 <script>
 import navbarComponent from "../components/navbarComponent.vue";
-import image1 from "../assets/1.jpeg";
-import image2 from "../assets/2.jpeg";
-import image3 from "../assets/3.jpeg";
+import image1 from "../assets/1.jpg";
+import image2 from "../assets/2.jpg";
+import image3 from "../assets/3.jpg";
 import image4 from "../assets/4.jpg";
-import image5 from "../assets/5.jpeg";
+import image5 from "../assets/5.jpg";
 
 export default {
   name: "beranda",
@@ -263,12 +429,15 @@ export default {
   margin-top: 80px;
   background-color: #0b97b8;
   border-radius: 50% 50% 0 0;
-  width: 300px;
-  height: 270px;
+  width: 250px;
+  height: 280px;
+  display: flex;
+  justify-content: center; /* Memusatkan gambar secara horizontal */
+  align-items: flex-start;
 }
 
 .sambutan-image {
-  margin-top: -91px;
+  margin-top: -85px;
   width: 300px;
 }
 
@@ -282,14 +451,14 @@ export default {
 }
 
 .sambutan-text h2::after {
-  margin-bottom: 5px;
   content: "";
   display: inline-block;
-  width: 300px; /* Panjang garis */
-  height: 3px; /* Ketebalan garis */
+  width: 300px;
+  height: 3px;
   background-color: #f2651c;
-  margin-left: 15px; /* Jarak antara teks dan garis */
+  margin-left: 15px;
   vertical-align: middle;
+  margin-bottom: 4px;
 }
 
 .sambutan-text p {
@@ -297,6 +466,171 @@ export default {
 }
 
 .sambutan-text h3 {
+  margin-top: 30px;
+}
+
+.content-web {
+  margin-top: 25px;
+  align-self: flex-start;
+  width: 100%;
+  text-align: left;
+}
+
+.content-title {
+  margin-bottom: 20px;
+}
+
+.prestasi-container {
+  display: flex;
+  width: 1205px;
+  height: 300px;
+  overflow: hidden;
+  border-radius: 10px;
+  background-color: rgba(11, 151, 184, 0.05);
+  margin-bottom: 30px;
+}
+
+.prestasi-image {
+  width: 100%;
+  width: 400px;
+  object-fit: cover;
+}
+
+.prestasi-text-container {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  margin: 20px;
+}
+
+.prestasi-title {
+  font-weight: bold;
+  text-align: justify;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  line-clamp: 2;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.prestasi-description {
+  margin-top: -10px;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 7;
+  line-clamp: 7;
+  overflow: hidden;
+  text-align: justify;
+  color: rgba(0, 0, 0, 0.6);
+  font-size: 14px;
+}
+
+.gallery-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.gallery-item {
+  width: 300px;
+  height: 445px;
+  overflow: hidden;
+  border-radius: 10px;
+  background-color: rgba(11, 151, 184, 0.05);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.gallery-image {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+.gallery-text-container {
+  margin: 5px 15px 15px 15px;
+  flex-grow: 1;
+}
+
+.gallery-title {
+  font-weight: bold;
+  text-align: justify;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  line-clamp: 2;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.gallery-description {
+  margin-top: -10px;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 5;
+  line-clamp: 5;
+  overflow: hidden;
+  color: rgba(0, 0, 0, 0.6);
+  text-align: justify;
+}
+
+.selengkapnya-prestasi-utama,
+.selengkapnya-prestasi {
+  align-self: flex-end;
+}
+
+.selengkapnya-prestasi-utama {
+  display: flex;
+  color: #f2651c;
+  justify-content: flex-end;
+  width: 100%;
+  background: none; /* Menghilangkan latar belakang */
+  border: none; /* Menghilangkan border */
+  padding: 0; /* Hilangkan padding default */
+  font: inherit; /* Pastikan mengikuti font default */
+  cursor: pointer; /* Tetap bisa diklik */
+  align-self: flex-end;
+  margin-bottom: 40px;
+  margin-top: auto;
+  font-size: 14px;
+}
+
+.selengkapnya-prestasi {
+  display: flex;
+  color: #f2651c;
+  justify-content: flex-end;
+  width: 100%;
+  background: none; /* Menghilangkan latar belakang */
+  border: none; /* Menghilangkan border */
+  padding: 0; /* Hilangkan padding default */
+  font: inherit; /* Pastikan mengikuti font default */
+  cursor: pointer; /* Tetap bisa diklik */
+  margin-top: auto;
+  margin-bottom: 15px;
+  margin-right: 15px;
+  font-size: 14px;
+  align-self: flex-end;
+}
+
+.selengkapnya {
+  display: flex;
+  color: #0b97b8;
   margin-top: 20px;
+  align-items: center;
+  justify-content: flex-end;
+  width: 100%;
+}
+
+.selengkapnya::after {
+  content: " ➜";
+  font-size: 16px;
+  margin-left: 10px;
+  margin-top: 2px;
 }
 </style>
