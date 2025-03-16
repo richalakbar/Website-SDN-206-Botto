@@ -16,6 +16,10 @@ export default defineConfig({
     },
   },
   server: {
-    allowedHosts: ['son-tons-favourite-trailer.trycloudflare.com']
+    allowedHosts: [
+      '*.trycloudflare.com',
+      'actors-explain-necessary-lexmark.trycloudflare.com',
+      'scary-height-japan-snake.trycloudflare.com'
+    ]
   }
 })

@@ -1,18 +1,6 @@
 <template>
   <navbar-component />
   <main style="padding-top: 100px;" class="container-global">
-    <div class="position-search">
-      <form class="d-flex custome-icon-search" role="search" @submit.prevent>
-        <input
-          class="search-control"
-          type="search"
-          v-model="searchQuery"
-          placeholder="Search..."
-          aria-label="Search"
-        />
-        <img src="../assets/Search.svg" class="search-icon" alt="Search Icon" />
-      </form>
-    </div>
     <h1>Visi & Misi</h1>
   </main>
 </template>
@@ -23,6 +11,11 @@ export default {
   name: "visimisi",
   components: {
     navbarComponent,
+  },
+  data() {
+    return {
+      searchQuery: '', // Define searchQuery property
+    };
   },
 };
 </script>

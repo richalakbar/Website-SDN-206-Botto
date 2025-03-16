@@ -1,7 +1,16 @@
 <template>
   <nav class="navbar navbar-expand-lg">
     <div class="container-fluid">
-      <a class="navbar-brand" href="#">SDN 206 Botto</a>
+      <a class="navbar-brand" href="#">
+        <img
+          src="../assets/logo SDN 206 BOTTO.png"
+          alt="Logo"
+          width="45"
+          height="auto"
+          class="d-inline-block align-text-top"
+        />
+        <span class="navbar-text">SDN 206 Botto</span>
+      </a>
       <button
         class="navbar-toggler"
         type="button"
@@ -54,24 +63,31 @@ export default {
 <style scoped>
 .navbar {
   background-color: #fdeebf;
-  padding: 10px;
+  padding: 1px;
   display: flex;
   align-items: center;
+  justify-content: center;
   box-shadow: 0 4px 12px -2px rgba(11, 151, 184, 0.5);
   position: fixed;
   width: 100%;
+  height: 65px;
   left: 0;
   right: 0;
 }
 
 .navbar-brand {
-  color: #0b97b8 !important;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.navbar-text {
   font-weight: bold;
-  margin-bottom: 5px;
+  color: #0b97b8;
 }
 
 .nav-link {
-  color: #0b97b8 !important;
+  color: #0b97b8;
   font-weight: normal;
   margin-bottom: 5px;
   transition: color 0.3s ease-in-out, font-weight 0.1s ease-in-out;
@@ -100,12 +116,28 @@ export default {
 
 @media (max-width: 768px) {
   .navbar-nav {
+    background-color: #fdeebf;
     flex-direction: column;
     text-align: center;
+    width: 100%;
+    left: 0;
+    right: 0;
+    margin-top: 8px;
+    animation: slideDown 0.5s ease-in-out; /* Add slide-down animation */
+    border-radius: 0 0 10px 10px;
   }
 
   .navbar-nav .nav-item {
-    margin-bottom: 10px;
+    margin-bottom: 5px;
+  }
+}
+
+@keyframes slideDown {
+  from {
+    transform: translateY(-100%); /* Start from above */
+  }
+  to {
+    transform: translateY(0);
   }
 }
 </style>

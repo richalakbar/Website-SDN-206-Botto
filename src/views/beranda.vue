@@ -3,6 +3,12 @@
   <main class="main-content">
     <div class="image-slider">
       <img :src="currentImage" alt="Slideshow Image" />
+      <img
+        style="height: 300px; width: auto"
+        class="logo-overlay"
+        src="../assets/logo SDN 206 BOTTO.png"
+        alt="Logo SDN 206 BOTTO"
+      />
     </div>
     <main class="container-global">
       <div class="container-center">
@@ -39,7 +45,7 @@
           </div>
         </div>
         <div class="svg-row">
-          <div class="icon-text-container">
+          <button class="icon-text-container">
             <div class="center-container">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -55,7 +61,7 @@
               </svg>
             </div>
             <p>KELAS</p>
-          </div>
+          </button>
           <div class="icon-text-container">
             <div class="center-container">
               <svg
@@ -279,7 +285,7 @@
               <button class="selengkapnya-prestasi">Selengkapnya</button>
             </div>
           </div>
-          <p class="selengkapnya">Prestasi Selengkapnya</p>
+          <button class="selengkapnya">Prestasi Selengkapnya</button>
         </div>
       </div>
     </main>
@@ -339,8 +345,20 @@ export default {
   display: block;
 }
 
+.logo-overlay {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2); /* Centered shadow effect */
+  border-radius: 50%; /* Follow the shape of the logo */
+  background: rgba(255, 255, 255, 0.1); /* Light background for glass effect */
+  padding: 5px;
+  z-index: 1; /* Ensure it is below the navbar */
+}
+
 .main-content {
-  padding-top: 65px;
+  padding-top: 62px;
 }
 
 .container-center {
@@ -408,20 +426,42 @@ export default {
   margin-bottom: 4px;
 }
 
+.center-container:hover {
+  background-color: #ff7f50;
+}
+
+.center-container:active {
+  background-color: #ff4500;
+}
+
 .icon-text-container {
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  background: none; /* Menghilangkan latar belakang */
+  border: none; /* Menghilangkan border */
+  padding: 0; /* Hilangkan padding default */
+  font: inherit; /* Pastikan mengikuti font default */
+  cursor: pointer; /* Tetap bisa diklik */
 }
 
 .icon-text-container p {
   color: #0b97b8;
 }
 
+.icon-text-container:hover p {
+  color: #0077b6;
+}
+
+.icon-text-container:active p {
+  color: #005f73;
+}
+
 .sambutan-container {
   display: flex;
   margin-top: 40px;
+  margin-bottom: 10px;
 }
 
 .sambutan {
@@ -573,11 +613,12 @@ export default {
   margin-top: -10px;
   display: -webkit-box;
   -webkit-box-orient: vertical;
-  -webkit-line-clamp: 5;
-  line-clamp: 5;
+  -webkit-line-clamp: 6;
+  line-clamp: 6;
   overflow: hidden;
   color: rgba(0, 0, 0, 0.6);
   text-align: justify;
+  font-size: 14px;
 }
 
 .selengkapnya-prestasi-utama,
@@ -618,6 +659,16 @@ export default {
   align-self: flex-end;
 }
 
+.selengkapnya-prestasi-utama:hover,
+.selengkapnya-prestasi:hover {
+  color: #ff7f50;
+}
+
+.selengkapnya-prestasi-utama:active,
+.selengkapnya-prestasi:active {
+  color: #ff4500;
+}
+
 .selengkapnya {
   display: flex;
   color: #0b97b8;
@@ -625,6 +676,19 @@ export default {
   align-items: center;
   justify-content: flex-end;
   width: 100%;
+  background: none; /* Menghilangkan latar belakang */
+  border: none; /* Menghilangkan border */
+  padding: 0; /* Hilangkan padding default */
+  font: inherit; /* Pastikan mengikuti font default */
+  cursor: pointer; /* Tetap bisa diklik */
+}
+
+.selengkapnya:hover {
+  color: #0077b6;
+}
+
+.selengkapnya:active {
+  color: #005f73;
 }
 
 .selengkapnya::after {
@@ -632,5 +696,9 @@ export default {
   font-size: 16px;
   margin-left: 10px;
   margin-top: 2px;
+}
+
+nav {
+  z-index: 10; /* Ensure the navbar is above other elements */
 }
 </style>
